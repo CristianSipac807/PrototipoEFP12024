@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1717000964 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\caso practico ef\final\serie 4-examen final\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"Bitacora.h"
+	"usuarios.h"
+	"Login.h"
+	"clientes.h"
+
+1717000959 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\caso practico ef\final\serie 4-examen final\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1717000953 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\caso practico ef\final\serie 4-examen final\include\usuarios.h
+	<iostream>
+
+1717000968 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\caso practico ef\final\serie 4-examen final\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1717000953 c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\caso practico ef\final\serie 4-examen final\include\clientes.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1717000953 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\caso practico ef\final\serie 4-examen final\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1717001590 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\caso practico ef\final\serie 4-examen final\src\clientes.cpp
+	"clientes.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+	"Bitacora.h"
+	"Login.h"
+
+1717000953 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\caso practico ef\final\serie 4-examen final\src\login.cpp
+	"login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1717000953 source:c:\users\david sipac\desktop\universidad\tercer semestre\programación 1\caso practico ef\final\serie 4-examen final\src\usuarios.cpp
+	"usuarios.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	"Login.h"
+	"Bitacora.h"
+
